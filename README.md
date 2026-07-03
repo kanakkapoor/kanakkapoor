@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanak Kapoor</h1>
+<h1 align="center">Hi, I'm Kanak Kapoor</h1>
 
 <h3 align="center">Aspiring Data Analyst | Business Analytics Enthusiast | Lifelong Learner</h3>
 
